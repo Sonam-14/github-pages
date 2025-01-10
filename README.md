@@ -11,6 +11,8 @@
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
+**Hello World!**
+
 </header>
 
 <!--
@@ -28,6 +30,8 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 - **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
 - **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
 - **How long**: This course takes less than one hour to complete.
+
+  **Hello World!**
 
 In this course, you will:
 
